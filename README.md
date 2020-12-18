@@ -19,8 +19,7 @@ MemoryApp is a web application that lets you easily save and find memories
 
 ## Preview
 <p align="center">
-   <img src="/Resources/AppScreenshot1.png"/>
-   <img src="/Resources/AppScreenshot2.png"/>
+   <img src="/Resources/AppScreenshot1.png" height="300"/>
 </p>
 
 
