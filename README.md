@@ -27,32 +27,32 @@ MemoryApp is a web application that lets you easily save and find memories
 
 ## Structure
 MemoryApp is a full-stack project consisting of three repositories:
-### [Backend](https://github.com "Backend Repository")
+### [Backend](https://github.com/David-Guirguis/MemoryAppBackend "Backend Repository")
   * Java
   * Spring Boot REST-API
   * Hibernate
   * Maven 
   
-### [Frontend](https://github.com "Frontend Repository")
+### [Frontend](https://github.com/David-Guirguis/MemoryAppFrontend "Frontend Repository")
   * React
   * Google Oauth 2.0 for user authentication
 
-### [Database](https://github.com "Database Repository")
+### [Database](https://github.com/David-Guirguis/MemoryAppDatabase "Database Repository")
   * MySQL
 
 ## Installation
 
 ### Backend
-1. Clone the [backend repo](https://github.com)
+1. Clone the [backend repo](https://github.com/David-Guirguis/MemoryAppBackend)
 2. Build and run the java project
 
 ### Frontend
-1. Clone the [frontend repo](https://github.com)
+1. Clone the [frontend repo](https://github.com/David-Guirguis/MemoryAppFrontend)
 2. Install node
-3. Navigate to `/`
+3. Navigate to `/memoryapp/`
 4. Run `npm install`
 5. Run `npm start`
 
 ### Database
-1. Clone the [database repo](https://github.com)
-2. Run the `.sql` file on a MySQL server
+1. Clone the [database repo](https://github.com/David-Guirguis/MemoryAppDatabase)
+2. Run the `CreateDB.sql` file on a MySQL server
