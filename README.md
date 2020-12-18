@@ -6,7 +6,7 @@
 
 
 <p align="center">
-   <img src="/Resources/MemoryAppLogo.png" height="250" />
+   <img src="/Resources/Logo.png" height="250" />
 </p>
 
 ## About
